@@ -1,0 +1,2 @@
+<small class="badge pull-right <?php echo e($badge->getClass()); ?>"><?php echo e($badge->getValue()); ?></small>
+<?php /**PATH /Users/lord-hades/Desktop/ecom/vendor/maatwebsite/laravel-sidebar/resources/views/badge.blade.php ENDPATH**/ ?>
